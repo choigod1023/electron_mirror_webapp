@@ -1,5 +1,7 @@
 # electron_mirror_webapp
 
+**한국어** · [日本語](README.ja.md) · [English](README.en.md)
+
 > 라즈베리파이로 만든 스마트 미러에 들어갈 UI — Electron.js 기반 시계 · 날씨 대시보드
 
 ## 소개
