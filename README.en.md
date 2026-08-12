@@ -92,4 +92,4 @@ electron_mirror_webapp/
 | **Contribution share** | **4 commits** of my own — the repo was started by importing the `electron-quick-start` template with its history, so the commit ratio (4/97 = 4.1%) is not meaningful |
 | **Contributors** | 1 (the remaining commits belong to the template's authors) |
 
-<sub>Counting basis: commits reachable from **every branch** on origin (merge commits and empty commits excluded), counted by commit author email with one person’s multiple addresses merged; bot and automation commits (93 from dependabot) are excluded.</sub>
+<sub>Counting basis (snapshot as of 2026-08-12): commits reachable from **every branch** on origin (merge commits and empty commits excluded), counted by commit author email with one person’s multiple addresses merged; bot and automation commits (93 from dependabot) are excluded.</sub>
